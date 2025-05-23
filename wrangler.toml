@@ -1,0 +1,9 @@
+name = "email-pixel-tracker"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "subscriptions-local"
+database_id = "0451782f-de17-4f09-991f-00222317d063" 
